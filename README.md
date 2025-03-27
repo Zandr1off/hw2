@@ -1,5 +1,5 @@
 # hw2
-### mondey
+### monday
 - 1
 - 2
 - 3
